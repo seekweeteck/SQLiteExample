@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Tue Jul 25 20:58:47 SGT 2017
+2.base=D\:\\AndroidStudioProjects\\SQLiteExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\AndroidStudioProjects\\SQLiteExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\AndroidStudioProjects\\SQLiteExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5dfdf1652c5de1fe66222609f05d7d4e3b4a65be
+6.file=D\:\\AndroidStudioProjects\\SQLiteExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.set=ANDROID_RESOURCE
+4.base=D\:\\AndroidStudioProjects\\SQLiteExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\AndroidStudioProjects\\SQLiteExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=9
+0.file=D\:\\AndroidStudioProjects\\SQLiteExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_show_user.xml
+5.base=D\:\\AndroidStudioProjects\\SQLiteExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\AndroidStudioProjects\\SQLiteExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+4.set=ANDROID_RESOURCE
+6.base=D\:\\AndroidStudioProjects\\SQLiteExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\AndroidStudioProjects\\SQLiteExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d7e98dbd1ab939fd74fd5c95af4ef69ff6c05f44\\classes.dex
+1.set=DEX
+7.base=D\:\\AndroidStudioProjects\\SQLiteExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\AndroidStudioProjects\\SQLiteExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+6.set=ANDROID_RESOURCE
+0.base=D\:\\AndroidStudioProjects\\SQLiteExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\AndroidStudioProjects\\SQLiteExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\AndroidStudioProjects\\SQLiteExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5dfdf1652c5de1fe66222609f05d7d4e3b4a65be\\classes.dex
+3.set=DEX
+1.base=D\:\\AndroidStudioProjects\\SQLiteExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d7e98dbd1ab939fd74fd5c95af4ef69ff6c05f44
+4.file=D\:\\AndroidStudioProjects\\SQLiteExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

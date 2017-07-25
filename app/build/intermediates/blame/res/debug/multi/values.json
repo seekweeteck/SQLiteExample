@@ -1,0 +1,148 @@
+[
+    {
+        "outputFile": "D:\\AndroidStudioProjects\\SQLiteExample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\SQLiteExample\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\SQLiteExample\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\SQLiteExample\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 50,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\SQLiteExample\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 39,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\SQLiteExample\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 313,
+                    "endColumn": 37,
+                    "endOffset": 346
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\SQLiteExample\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 351,
+                    "endColumn": 39,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\SQLiteExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 339,
+                        "endColumn": 39,
+                        "endOffset": 374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 391,
+                    "endColumn": 45,
+                    "endOffset": 432
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\SQLiteExample\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 437,
+                    "endColumn": 45,
+                    "endOffset": 478
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\SQLiteExample\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 483,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 561
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\SQLiteExample\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 566,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 633
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\SQLiteExample\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

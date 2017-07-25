@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\SQLiteExample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_user.xml",
+        "source": "D:\\AndroidStudioProjects\\SQLiteExample\\app\\src\\main\\res\\layout\\activity_show_user.xml"
+    }
+]
